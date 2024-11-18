@@ -2,3 +2,4 @@ Esta es la demo de git checkout
 para recuperar archivos
 
 Primer cambio de checkout
+Segundo cambio de checkout
