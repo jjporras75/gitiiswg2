@@ -1,2 +1,3 @@
 Este ese el archivo dos
 Demo de git reset
+Una tercera linea
